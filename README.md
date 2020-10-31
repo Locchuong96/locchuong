@@ -1,2 +1,2 @@
-# locchuong
-some things cool
+# locchuong Machine Learning
+Supervised Learning functions libraby without tools
